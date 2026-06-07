@@ -10,7 +10,7 @@
 
 ## How to Use
 
-- **Copy Messages:** Press and **hold** the `Ctrl` key. While holding it, **Right-Click** on any chat message to copy its text to your clipboard.
+- **Copy Messages:** Press and **hold** the `Ctrl` key. While holding it, **Left-Click** on any chat message to copy its text to your clipboard.
 - **View History:** Open the chat and **scroll your mouse wheel** up/down to view up to 16,000 previous messages.
 - **Portal Chat:** Simply press your chat key while standing inside a Nether or End portal to type normally.
 
